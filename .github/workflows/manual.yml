@@ -29,4 +29,4 @@ jobs:
     - uses: nunit/docfx-action@v2.4.0
       name: Build Documentation
       with:
-        args: path/to/your/docfx.json
+        args: docfx_project/docfx.json
