@@ -7,8 +7,7 @@
             "bin/**/*.dll"
           ]
         }
-      ],
-      "dest": "api",
+      ],      
       "includePrivateMembers": false,
       "disableGitFeatures": false,
       "disableDefaultFilter": false,
@@ -20,13 +19,7 @@
     }
   ],
   "build": {
-    "content": [
-      {
-        "files": [
-          "api/**.yml",
-          "api/index.md"
-        ]
-      },
+    "content": [     
       {
         "files": [
           "articles/**.md",
