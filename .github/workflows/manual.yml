@@ -35,6 +35,8 @@ jobs:
     - run: docfx docfx_project/docfx.json
 
     - name: Upload artifact
+      with:
+        path: "_site"
       uses: actions/upload-pages-artifact@v2    
   
     - name: Deploy to GitHub Pages
