@@ -5,10 +5,20 @@
   "files": [
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "source_relative_path": "articles/chapter1.md",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html"
+          "relative_path": "articles/chapter1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html"
         }
       },
       "version": ""

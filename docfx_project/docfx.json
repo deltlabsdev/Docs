@@ -9,7 +9,7 @@
         }
       ],      
       "includePrivateMembers": false,
-      "disableGitFeatures": false,
+      "disableGitFeatures": true,
       "disableDefaultFilter": false,
       "noRestore": false,
       "namespaceLayout": "flattened",
@@ -43,6 +43,11 @@
       "default",
       "modern"
     ],
+    "globalMetadata": {
+      "_appTitle": "Documentation",
+      "_enableSearch": "true",
+      "_disableContribution": true
+    },
     "postProcessors": [],
     "keepFileLink": false,
     "disableGitFeatures": false
