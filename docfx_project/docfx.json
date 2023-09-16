@@ -48,7 +48,7 @@
       "_enableSearch": "true",
       "_disableContribution": true
     },
-    "postProcessors": [],
+    "postProcessors": [ "ExtractSearchIndex" ],
     "keepFileLink": false,
     "disableGitFeatures": false
   }
